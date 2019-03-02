@@ -68,4 +68,21 @@ Description: This is simple web programming assignment to build and link two web
       color: #A4A400;
     }
     
+    div.container1 span {
+      font-weight: bold;
+    }
+
+    div.container2 {
+      font-style: italic;
+    }
+
+    div.container3 span {
+      text-decoration: line-through;
+    }
+
+    div.container4 span {
+      font-weight: bold;
+    }
+}
+    
 
