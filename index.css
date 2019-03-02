@@ -30,3 +30,36 @@ Description: This is simple web programming assignment to build and link two web
       text-align: center;
       letter-spacing: 0.25em;
     }
+    
+    a.container1 {
+      text-decoration: underline;
+      font-family: "Lucida Sans";
+      font-size: 29px;
+      text-decoration-color: #A4A400;
+      color: #A4A400;
+      text-align: center;
+      letter-spacing: 0.25em;
+      background-color: #F0F0F0;
+    }
+
+    a.container2 {
+      position: fixed;
+      top: 80%;
+      left: 53.975%;
+      /* bring your own prefixes */
+      transform: translate(-75%, -75%);
+      text-decoration: underline;
+      font-family: "Lucida Sans";
+      font-size: 29px;
+      text-decoration-color: red;
+      color: red;
+      text-align: center;
+      letter-spacing: 0.25em;
+    }
+
+    a.container2 span{
+      background-color: rgba(76, 175, 80, 0.3) /* Green background with 30% opacity */
+    }
+}
+
+
