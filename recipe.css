@@ -57,4 +57,15 @@ Description: This is simple web programming assignment to build and link two web
       background-color: #F0F0F0;
     }
     
+    li span {
+      font-weight: bold;
+    }
+
+    p span{
+      text-decoration: underline;
+      font-family: "Lucida Sans";
+      text-decoration-color: #A4A400;
+      color: #A4A400;
+    }
+    
 
