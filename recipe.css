@@ -12,3 +12,14 @@ Description: This is simple web programming assignment to build and link two web
       text-decoration-color: #404040;
       text-align: left;
     }
+    
+    h2 {
+      text-decoration: underline;
+      font-family: "Lucida Sans";
+      font-size: 29px;
+      text-decoration-color: #A4A400;
+      color: #A4A400;
+      text-align: center;
+      letter-spacing: 0.25em;
+    }
+
