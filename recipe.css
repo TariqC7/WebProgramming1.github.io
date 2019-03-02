@@ -1,0 +1,14 @@
+/*
+Name: Tariq Cranston
+Section: Network and Web Programming
+Description: This is simple web programming assignment to build and link two webpages based around the recipe for a lemon meringue pie
+*/
+
+@media (max-width:2560px){    
+    body {
+      background-image: url("https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
+      background-repeat: repeat;
+      font-size: 15px;
+      text-decoration-color: #404040;
+      text-align: left;
+    }
